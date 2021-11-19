@@ -1,0 +1,14 @@
+<svg id="c_4_24" data-name="c4 – 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="26" height="26" viewBox="0 0 26 26">
+    <defs>
+        <clipPath id="clip-path">
+            <ellipse id="c_5" data-name="c 5" cx="13" cy="13" rx="13" ry="13" transform="translate(0)" fill="#989898"/>
+        </clipPath>
+    </defs>
+    <ellipse id="c_4" data-name="c 4" cx="13" cy="13" rx="13" ry="13" fill="#989898"/>
+    <g id="mask_2" data-name="mask2" clip-path="url(#clip-path)">
+        <g id="g_5" data-name="g5" transform="translate(6.617 4.897) rotate(3)">
+            <path id="gp_11" data-name="gp11" d="M14.914,12.057c-.562.7-7.967,6.69-14.786.643C-.53,11.789,1.473,4.159,3.526.384A4.885,4.885,0,0,0,6.678,1.533,4.891,4.891,0,0,0,10.239,0C12.536,3.523,15.9,10.818,14.914,12.057Z" transform="translate(0 7.756)" fill="#fff"/>
+            <path id="gp_12" data-name="gp12" d="M8.749,4.373A4.374,4.374,0,1,1,4.373,0,4.374,4.374,0,0,1,8.749,4.373Z" transform="translate(2.305 0)" fill="#fff"/>
+        </g>
+    </g>
+</svg>
